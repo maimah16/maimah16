@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**maimah16/maimah16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Meu nome é Maira e esse é meu novo perfil!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- estou estudando no Alura
+
+- estou no 2ano do medio
+
+
+### entre em ctt cmg na escola ###
+
+![](https://media1.tenor.com/m/TH8Y1Imf8ckAAAAd/meme.gif)
+https://media1.tenor.com/m/mXgVRO2zbRoAAAAd/pica-pau.gif
