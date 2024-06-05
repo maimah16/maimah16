@@ -3,7 +3,7 @@
 
 Meu nome é Maira e esse é meu novo perfil!
 
-- estou estudando no Alura
+- estou estudando no [Alura](https://www.alura.com.br)
 
 - estou no 2ano do medio
 
